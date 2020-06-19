@@ -1,2 +1,1 @@
-# first_repository
-first attempt to make a repository
+print ("hello world")
